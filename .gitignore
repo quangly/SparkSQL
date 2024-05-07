@@ -1,3 +1,7 @@
 .DS_Store
 .ipynb_checkpoints/
 .zshrc
+df1-gzip.csv
+df1.json
+df1.parquet
+df1.csv

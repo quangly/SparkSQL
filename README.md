@@ -7,6 +7,7 @@
 - brew install java
 - install latetst python
 - install pip
+- pip install numpy
 - pip install pyspark
 -   export SPARK_HOME="/Users/quangly/spark"
     export PATH=$SPARK_HOME/bin:$PATH

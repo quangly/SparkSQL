@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 07 00:00:52 EDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018f-5136-1d74-000001d5d950 
+on database directory /Users/quangly/github/Spark SQL/CH 04/begin/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/Users/quangly/spark/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=/Users/quangly/github/Spark SQL/CH 04/begin
+os.name=Mac OS X
+os.arch=aarch64
+os.version=14.4.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
