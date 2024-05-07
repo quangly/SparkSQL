@@ -14,3 +14,6 @@
     export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
     alias python=/Library/Frameworks/Python.framework/Versions/3.12/bin/python3
     export JAVA_HOME= /opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home
+
+#To Run
+pyspark
