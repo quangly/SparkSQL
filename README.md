@@ -9,7 +9,7 @@
 - install pip
 - pip install numpy
 - pip install pyspark
--   export SPARK_HOME="/Users/quangly/spark"
+-   export SPARK_HOME="/Users/{REPLACE_USERID}/spark"
     export PATH=$SPARK_HOME/bin:$PATH
     export PYSPARK_DRIVER_PYTHON=jupyter
     export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
