@@ -5,7 +5,7 @@
 - Install Brew for Mac
 - Install JDK https://www.oracle.com/java/technologies/downloads/
 - brew install java
-- install latetst python
+- install latest python
 - install pip
 - pip install numpy
 - pip install pyspark
